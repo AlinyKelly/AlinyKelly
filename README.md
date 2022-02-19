@@ -37,28 +37,25 @@ I'm interested in working with Front-end, Games and Mobile Applications.
 
 ## Modelo 2
 <div align="center">
-<img width="100%" height = "auto" src="https://dsm01pap002files.storage.live.com/y4mPk3DsRtfXEg49JysLJZeYhPnDgFxjx1NQ6R4s8djEIGehCpkvJea-hI8Hk_cRmTRE6dEJOSBsSMB8tsKKqFHUsZBqOJXOHfauSWfC3k2cTeBAcyK6brJ4cRSFpZebq5LafNBdS_onDGhL2oGwBQ5uSQM5UKiMXEkWT6bFJlI210F263jSm3ZQkZX6ce1oie_?width=700&height=200&cropmode=none" alt="cover" />
+<img width="auto" src="https://dsm01pap002files.storage.live.com/y4mPk3DsRtfXEg49JysLJZeYhPnDgFxjx1NQ6R4s8djEIGehCpkvJea-hI8Hk_cRmTRE6dEJOSBsSMB8tsKKqFHUsZBqOJXOHfauSWfC3k2cTeBAcyK6brJ4cRSFpZebq5LafNBdS_onDGhL2oGwBQ5uSQM5UKiMXEkWT6bFJlI210F263jSm3ZQkZX6ce1oie_?width=700&height=200&cropmode=none" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Olá < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alinykelly.alinykelly)
-
 </p>
-<div size='20px'> Hi! My name is Aliny Kelly. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Seja Bem-vind@ ao meu perfil.😺
 </div>
 
-<h2> About Me </h2>
+<h2> Sobre mim </h2>
 
 <img width="15%" align="right" alt="Gatinho bebendo café" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
 
-#### I'm currently studying Systems Analysis and Development at the University of Fortaleza - UNIFOR.
-Aspiring developer focused on Front-end and Games.
-I'm interested in working with Front-end, Games and Mobile Applications.
+#### Graduando em Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza - UNIFOR.
+Tenho interesse em trabalhar com desenvolvimento Front-end, Games e Aplicações Mobile.
 
-- 🌱 I’m currently learning JavaScript and Java. 
-- ⚡ Fun fact: I'm a gamer who loves cats and coffee. 
+- 🌱 Atualmente estou estudando JavaScript, Java e SQL. 
+- ⚡ Fun fact: Sou uma gamer cheiradora de gatinhos. 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -72,7 +69,7 @@ I'm interested in working with Front-end, Games and Mobile Applications.
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/alinykelly'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/alinykellyfs'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/alinykelly'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.github.com/alinykelly'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 
 
