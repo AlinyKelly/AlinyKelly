@@ -20,29 +20,30 @@ Tenho interesse em trabalhar com desenvolvimento Front-end, Games e Aplicações
 - ⚡ Fun fact: Sou uma gamer cheiradora de gatinhos. 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h4>Nível Básico</h4>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
+<h4>Nível Iniciante</h4>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NODEJS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 
-<h2> Conecte-se comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-[<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='50'>](https://github.com/AlinyKelly)  [<img src='https://img.icons8.com/nolan/64/linkedin.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/alinykelly/)  [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='50'>](https://www.instagram.com/alinykellyfs/)  [<img src='https://img.icons8.com/nolan/64/twitter.png' alt='twitter' height='50'>](https://twitter.com/alinykellyfs)  [<img src='https://img.icons8.com/nolan/64/youtube-squared.png' alt='YouTube' height='50'>](https://www.youtube.com/channel/UC3elbSJ6anMa54jSInSXa0w)  
-
-<h2> Onde estou praticando <img src='https://media.giphy.com/media/QYd2ZfyFw3BxfGgJ5E/giphy.gif' width="30px"> </h2>
+<h2> Onde estou praticando <img src='https://media.giphy.com/media/QYd2ZfyFw3BxfGgJ5E/giphy.gif' width="30px"> </h2>  
   
 [<img src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png' alt='hackerrank' height='50'>](https://www.hackerrank.com/alinykellyfs) [<img src='https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036' alt='hackerrank' height='50'>](https://www.beecrowd.com.br/judge/pt/profile/519007) 
 
-
 <h2> Meus status Github <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
 <p align="center">
 <a href="https://github.com/alinykelly">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alinykelly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alinykelly&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
+
+<h2> Conecte-se comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+  
+[<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='50'>](https://github.com/AlinyKelly)  [<img src='https://img.icons8.com/nolan/64/linkedin.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/alinykelly/)  [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='50'>](https://www.instagram.com/alinykellyfs/)  [<img src='https://img.icons8.com/nolan/64/twitter.png' alt='twitter' height='50'>](https://twitter.com/alinykellyfs)  [<img src='https://img.icons8.com/nolan/64/youtube-squared.png' alt='YouTube' height='50'>](https://www.youtube.com/channel/UC3elbSJ6anMa54jSInSXa0w)  
