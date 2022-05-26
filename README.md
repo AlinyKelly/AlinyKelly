@@ -10,9 +10,7 @@
 </div>
 
 <h2> Sobre mim </h2>
-
-![Resultado final do projeto](public/assets/image/gato_cafe.gif)
-
+  
 #### Graduando em Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza - UNIFOR.
 Tenho interesse em trabalhar com desenvolvimento Front-end, Games e Aplicações Mobile.
 
