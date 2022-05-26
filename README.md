@@ -11,7 +11,7 @@
 
 <h2> Sobre mim </h2>
 
-<img width="15%" align="right" alt="Gatinho bebendo café" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
+![Resultado final do projeto](public/assets/image/gato_cafe.gif)
 
 #### Graduando em Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza - UNIFOR.
 Tenho interesse em trabalhar com desenvolvimento Front-end, Games e Aplicações Mobile.
