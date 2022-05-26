@@ -2,7 +2,7 @@
 <img width="auto" src="https://dsm01pap002files.storage.live.com/y4mPk3DsRtfXEg49JysLJZeYhPnDgFxjx1NQ6R4s8djEIGehCpkvJea-hI8Hk_cRmTRE6dEJOSBsSMB8tsKKqFHUsZBqOJXOHfauSWfC3k2cTeBAcyK6brJ4cRSFpZebq5LafNBdS_onDGhL2oGwBQ5uSQM5UKiMXEkWT6bFJlI210F263jSm3ZQkZX6ce1oie_?width=700&height=200&cropmode=none" alt="cover" />
 </div>
 
-<h1> Olá < Mundo/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Olá < Mundo/ >! 🖖🏽 </h1>
 <p align='center'>
 
 </p>
@@ -17,9 +17,9 @@
 Tenho interesse em trabalhar com desenvolvimento Front-end, Games e Aplicações Mobile.
 
 - 🌱 Atualmente estou estudando JavaScript, Java e SQL. 
-- ⚡ Fun fact: Sou uma gamer cheiradora de gatinhos. 
+- ⚡ Fun fact: Sou uma gamer cheiradora de gatinhos. 🐱‍💻
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills 👩🏽‍💻 </h2>
 <h4>Nível Básico</h4>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
@@ -32,7 +32,7 @@ Tenho interesse em trabalhar com desenvolvimento Front-end, Games e Aplicações
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 
-<h2> Onde estou praticando <img src='https://media.giphy.com/media/QYd2ZfyFw3BxfGgJ5E/giphy.gif' width="30px"> </h2>  
+<h2> Onde estou praticando 📚 </h2>  
   
 [<img src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png' alt='hackerrank' height='50'>](https://www.hackerrank.com/alinykellyfs) [<img src='https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036' alt='hackerrank' height='50'>](https://www.beecrowd.com.br/judge/pt/profile/519007) 
 
@@ -44,6 +44,6 @@ Tenho interesse em trabalhar com desenvolvimento Front-end, Games e Aplicações
 </a>
 </p>
 
-<h2> Conecte-se comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Conecte-se comigo 🤝🏽 </h2>
   
 [<img src='https://img.icons8.com/nolan/64/linkedin.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/alinykelly/)  [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='50'>](https://www.instagram.com/alinykellyfs/)  [<img src='https://img.icons8.com/nolan/64/twitter.png' alt='twitter' height='50'>](https://twitter.com/alinykellyfs)  [<img src='https://img.icons8.com/nolan/64/youtube-squared.png' alt='YouTube' height='50'>](https://www.youtube.com/channel/UC3elbSJ6anMa54jSInSXa0w)  
