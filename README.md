@@ -34,7 +34,7 @@ Tenho interesse em trabalhar com desenvolvimento Front-end, Games e Aplicações
   
 [<img src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png' alt='hackerrank' height='50'>](https://www.hackerrank.com/alinykellyfs) [<img src='https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036' alt='hackerrank' height='50'>](https://www.beecrowd.com.br/judge/pt/profile/519007) 
 
-<h2> Meus status Github <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> Meus status 😺+🐙 = Github </h2>
 <p align="center">
 <a href="https://github.com/alinykelly">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alinykelly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
