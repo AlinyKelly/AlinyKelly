@@ -41,6 +41,8 @@ Tenho interesse em trabalhar com desenvolvimento Front-end, Games e Aplicações
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alinykelly&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
+  
+  ![Snake animation](https://github.com/AlinyKelly/AlinyKelly/blob/output/github-contribution-grid-snake.svg)
 
 <h2> Conecte-se comigo 🤝🏽 </h2>
   
