@@ -14,7 +14,7 @@
 #### Graduando em Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza - UNIFOR.
 Tenho interesse em trabalhar com desenvolvimento Front-end, Games e Aplicações Mobile.
 
-- 🌱 Atualmente estou estudando JavaScript, Java e SQL. 
+- 🌱 Atualmente estou estudando HTML, CSS, JavaScript, React, Kotlin, Java e SQL. 
 - ⚡ Fun fact: Sou uma gamer cheiradora de gatinhos. 🐱‍💻
 
 <h2> Skills 👩🏽‍💻 </h2>
