@@ -11,11 +11,19 @@
 
 <h2> Sobre mim </h2>
   
-#### Graduando em Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza - UNIFOR.
-Tenho interesse em trabalhar com desenvolvimento Front-end, Games e Aplicações Mobile.
+Atualmente, estou focada em:
 
-- 🌱 Atualmente estou estudando HTML, CSS, JavaScript, React, Kotlin, Java e SQL. 
-- ⚡ Fun fact: Sou uma gamer cheiradora de gatinhos. 🐱‍💻
+- Desenvolvimento Front-End, com ênfase em HTML, CSS e JavaScript.
+- Aperfeiçoamento das melhores práticas de design de interface de usuário.
+- Interagindo com softwares e explorando experiências de usuário.
+
+## 💼 Experiência
+
+Tenho experiência em:
+
+- Desenvolvimento de software com linguagem Java.
+- Gerenciamento de bancos de dados utilizando MySQL e Oracle.
+- Trabalho em equipe e colaboração em projetos de desenvolvimento.
 
 <h2> Skills 👩🏽‍💻 </h2>
 <h4>Front-End</h4>
@@ -34,6 +42,14 @@ Tenho interesse em trabalhar com desenvolvimento Front-end, Games e Aplicações
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
+## 🌱 Aprendendo
+
+Estou sempre buscando aprender coisas novas e atualizar minhas habilidades. Atualmente, estou estudando:
+
+- Front-End avançado e suas tecnologias, como React, Angular e Vue.js.
+- Aprofundando meu conhecimento em design gráfico.
+- Explorando a interação com softwares e experiência do usuário.
+
 <h2> Meus status 😺+🐙 = Github </h2>
 <p align="center">
 <a href="https://github.com/alinykelly">
@@ -42,6 +58,15 @@ Tenho interesse em trabalhar com desenvolvimento Front-end, Games e Aplicações
 </a>
 </p>
 
+## ⚡ Diversão
+
+Quando não estou programando ou estudando, você pode me encontrar:
+
+- Jogando videogames e cheirando gatinhos.
+- Lendo livros de ficção ou assistindo a uma série ou filme com meu esposo.
+
 <h2> Conecte-se comigo 🤝🏽 </h2>
   
 [<img src='https://img.icons8.com/nolan/64/linkedin.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/alinykelly/)  [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='50'>](https://www.instagram.com/alinykellyfs/)
+
+Obrigado por visitar meu perfil. 😊
