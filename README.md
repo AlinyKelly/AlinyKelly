@@ -2,22 +2,21 @@
 <img width="auto" src="https://raw.githubusercontent.com/AlinyKelly/AlinyKelly/main/public/assets/image/banner.png" alt="Banner estilo pixel art com a frase Hello World" />
 </div>
 
-<h1> Olá < Mundo/ >! 🖖🏽 </h1>
 <p align='center'>
-
+<h1> Prazer, eu sou Aliny Kelly.
+<br>
+Seja Bem-vind@ ao meu perfil.😺</h1>
 </p>
-<div size='20px'> Seja Bem-vind@ ao meu perfil.😺
-</div>
 
-<h2> Sobre mim </h2>
-  
+<h2>🐱‍💻 Sobre mim</h2>
+
 Atualmente, estou focada em:
 
 - Desenvolvimento Front-End, com ênfase em HTML, CSS e JavaScript.
 - Aperfeiçoamento das melhores práticas de design de interface de usuário.
 - Interagindo com softwares e explorando experiências de usuário.
 
-## 💼 Experiência
+<h2>💼 Experiência</h2>
 
 Tenho experiência em:
 
@@ -25,7 +24,7 @@ Tenho experiência em:
 - Gerenciamento de bancos de dados utilizando MySQL e Oracle.
 - Trabalho em equipe e colaboração em projetos de desenvolvimento.
 
-<h2> Skills 👩🏽‍💻 </h2>
+<h2>👩🏽‍💻 Skills</h2>
 <h4>Front-End</h4>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
@@ -42,7 +41,7 @@ Tenho experiência em:
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
-## 🌱 Aprendendo
+<h2>🌱 Aprendendo </h2>
 
 Estou sempre buscando aprender coisas novas e atualizar minhas habilidades. Atualmente, estou estudando:
 
@@ -50,7 +49,11 @@ Estou sempre buscando aprender coisas novas e atualizar minhas habilidades. Atua
 - Aprofundando meu conhecimento em design gráfico.
 - Explorando a interação com softwares e experiência do usuário.
 
-<h2> Meus status 😺+🐙 = Github </h2>
+<h3>📚 Onde eu busco conhecimento</h3>
+
+[<img src='https://hermes.digitalinnovation.one/assets/diome/logo-full.svg' alt='dio' height='40'>](https://www.dio.me/users/alinykellyfs)
+
+<h2>😺+🐙 = Github </h2>
 <p align="center">
 <a href="https://github.com/alinykelly">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alinykelly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -58,15 +61,16 @@ Estou sempre buscando aprender coisas novas e atualizar minhas habilidades. Atua
 </a>
 </p>
 
-## ⚡ Diversão
+<h2>⚡ Diversão </h2>
 
 Quando não estou programando ou estudando, você pode me encontrar:
 
 - Jogando videogames e cheirando gatinhos.
 - Lendo livros de ficção ou assistindo a uma série ou filme com meu esposo.
 
-<h2> Conecte-se comigo 🤝🏽 </h2>
+<h2>🤝🏽 Conecte-se comigo</h2>
   
 [<img src='https://img.icons8.com/nolan/64/linkedin.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/alinykelly/)  [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='50'>](https://www.instagram.com/alinykellyfs/)
+
 
 Obrigado por visitar meu perfil. 😊
