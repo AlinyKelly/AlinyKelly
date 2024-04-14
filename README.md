@@ -12,7 +12,7 @@ Seja Bem-vind@ ao meu perfil.😺</h1>
 
 Atualmente, estou focada em:
 
-- Desenvolvimento Front-End, com ênfase em HTML, CSS e JavaScript.
+- Desenvolvimento Front-End, com ênfase em React, Typescript e Vue.js.
 - Aperfeiçoamento das melhores práticas de design de interface de usuário.
 - Interagindo com softwares e explorando experiências de usuário.
 
@@ -20,7 +20,7 @@ Atualmente, estou focada em:
 
 Tenho experiência em:
 
-- Desenvolvimento de software com linguagem Java.
+- Desenvolvimento de integração entre sistemas com linguagem Java.
 - Gerenciamento de bancos de dados utilizando MySQL e Oracle.
 - Trabalho em equipe e colaboração em projetos de desenvolvimento.
 
