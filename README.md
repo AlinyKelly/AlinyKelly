@@ -12,7 +12,8 @@ Seja Bem-vind@ ao meu perfil.😺</h1>
 
 Atualmente, estou focada em:
 
-- Desenvolvimento Front-End, com ênfase em React, Typescript e Vue.js.
+- Melhorar minhas habilidades em Java.
+- Aprender tecnologias voltadas para o Desenvolvimento Front-End, com ênfase em React, Typescript e Vue.js.
 - Aperfeiçoamento das melhores práticas de design de interface de usuário.
 - Interagindo com softwares e explorando experiências de usuário.
 
@@ -45,13 +46,15 @@ Tenho experiência em:
 
 Estou sempre buscando aprender coisas novas e atualizar minhas habilidades. Atualmente, estou estudando:
 
+- Java
 - Front-End avançado e suas tecnologias, como React, Angular e Vue.js.
-- Aprofundando meu conhecimento em design gráfico.
 - Explorando a interação com softwares e experiência do usuário.
 
 <h3>📚 Onde eu busco conhecimento</h3>
 
 [<img src='https://hermes.digitalinnovation.one/assets/diome/logo-full.svg' alt='dio' height='40'>](https://www.dio.me/users/alinykellyfs)
+
+[<img src='https://frontends.udemycdn.com/frontends-logged-in-homepages/staticx/udemy/images/v7/logo-udemy.svg' alt='udemy' height='40'>](https://www.udemy.com/user/aliny-kelly-ferreira-de-sousa/)
 
 <h2>😺+🐙 = Github </h2>
 <p align="center">
